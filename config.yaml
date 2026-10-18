@@ -1,0 +1,5 @@
+dbname: postgres
+user: myuser
+password: 123
+host: localhost
+dbtableprefix: "public."
